@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProofConcept", "ProofConcept\ProofConcept.csproj", "{358A0991-D701-461F-9448-7774BF4B7CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{358A0991-D701-461F-9448-7774BF4B7CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358A0991-D701-461F-9448-7774BF4B7CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358A0991-D701-461F-9448-7774BF4B7CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358A0991-D701-461F-9448-7774BF4B7CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5118823-6C7D-4415-BADE-9B999DD4E0B0}
+	EndGlobalSection
+EndGlobal
